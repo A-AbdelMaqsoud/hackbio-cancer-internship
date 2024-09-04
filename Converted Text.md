@@ -1,7 +1,7 @@
-**From Data to Predictions\
-The Fundamentals of Supervised Learning\ <!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->**
+From Data to Predictions
+The Fundamentals of Supervised Learning <!--[if !supportLineBreakNewLine]-->\ <!--[endif]-->
 
-One of the main methods for creating predictive models in machine learning is supervised learning, which is categorized alongside unsupervised and reinforcement learning. With this method, algorithms are trained on labeled datasets, in which every data point has a known correlation with an outcome. Through identifying correlations and patterns between the input data and the labels, the algorithm learns to accurately categorize and forecast newly discovered data. This process is similar to a "teacher-student" dynamic in which the algorithm (student) learns from examples provided by the labeled data (teacher).
+One of the main methods for creating predictive models in machine learning is supervised learning, which is categorized alongside unsupervised and reinforcement learning. With this method, algorithms are trained on labeled datasets, in which every data point has a known correlation with an outcome. The algorithm learns to accurately categorise and forecast newly discovered data by identifying correlations and patterns between the input data and the labels. This process is similar to a "teacher-student" dynamic in which the algorithm (student) learns from examples provided by the labeled data (teacher).
 
 Building a model that can correctly predict or classify outcomes based on fresh input data is the main goal of supervised learning. Usually, there are two primary tasks associated with this learning method:
 
@@ -14,7 +14,6 @@ Classification models, for example, can be used in cancer research to differenti
 Regression models in cancer research can predict the course of the disease by examining ongoing patient data. Understanding illness trends and developing future treatment plans can both benefit from these forecasts.
 
  
-
 **Key Steps in Supervised Learning**
 
 1-** Data Preparation: **
@@ -33,9 +32,6 @@ Data Splitting: Three subsets of the dataset are separated: Training, Validation
 
 <!--[if !supportLists]-->                 ·          <!--[endif]-->**Multiclass classification:** is used for outcomes that have more than two categories, such as categorizing various cancer types.&#x20;
 
- 
-
- 
 
 In cancer research we can implement supervised learning in the following:
 
